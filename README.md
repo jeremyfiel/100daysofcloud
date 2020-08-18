@@ -10,20 +10,16 @@
 5. Update your main README to link back to your Day Journey article
 4. If you need ideas go to [#100DaysOfCloudIdeas](https://github.com/100DaysOfCloud/100DaysOfCloudIdeas)
 
-## How to use this template:
-Fill in your details where you see this icon ✍️
-We have provided a sample Day Journey entry staring at 0. You can delete this example.
+## Jeremy's Cloud Journey
 
-## [✍️ Your Name]'s Cloud Journey
+I'm a self taught JS developer interesting in cloud engineering!
 
-[✍️ Introduce yourself]
+I'm diving head first into cloud engineering as a continuous learning journey. 
 
-[✍️ Tell us why you started this challenge]
+I'm focused on Azure platform and working towards my AZ-204 exam on August 28, 2020
 
-[✍️ Tell us where you want to be at the end of the challenge]
-
-- [✍️ Link to your Twitter](https://twitter.com/username)
-- [✍️ Link to your LinkedIn](https://www.linkedin.com/in/username)
+- [jeremyfiel](https://twitter.com/jeremyfiel)
+- [LinkedIn](https://www.linkedin.com/in/jeremyfiel)
 
 ## Stepping out the door
 

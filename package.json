@@ -1,0 +1,23 @@
+{
+  "name": "100daysofcloud",
+  "version": "1.0.0",
+  "description": "100 days of Cloud blog!",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremyfiel/100daysofcloud.git"
+  },
+  "keywords": [
+    "100daysofcloud"
+  ],
+  "author": "@jeremyfiel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeremyfiel/100daysofcloud/issues"
+  },
+  "homepage": "https://www.jeremyfiel/",
+  "dependencies": {}
+}
