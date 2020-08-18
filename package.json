@@ -4,7 +4,7 @@
   "description": "100 days of Cloud blog!",
   "main": "",
   "scripts": {
-    "run": "npm run build:azure",
+    "build": "npm run",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
