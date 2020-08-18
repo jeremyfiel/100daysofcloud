@@ -12,7 +12,7 @@
 
 ## Jeremy's Cloud Journey
 
-I'm a self taught JS developer interesting in cloud engineering!
+I'm a self taught JS developer interested in cloud engineering!
 
 I'm diving head first into cloud engineering as a continuous learning journey. 
 
